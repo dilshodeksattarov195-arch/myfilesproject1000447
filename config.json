@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcender",
+        "uuid": 4507101,
+        "checksum": "mn84u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
